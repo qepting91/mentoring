@@ -55,7 +55,37 @@ Use the links below to navigate through the repository:
 - [Achievements](achievements/)
 
 ---
+## Viewing Markdown Files Locally
 
+To enhance your experience with markdown files in this repository, we recommend using `md-fileserver`. This tool allows you to view markdown files in your browser with additional features like syntax highlighting and automatic updates.
+
+### Installing md-fileserver
+
+Install md-fileserver globally using npm:
+
+```bash
+npm install -g md-fileserver
+```
+
+## Usage
+
+### Start the Local Server
+
+In your terminal type:
+
+```
+mdstart
+```
+
+Open the given link <http://localhost:4000/?session=...> in your browser and
+navigate to the markdown file.
+
+**Note**: The local server can only be reached from your local computer on port 4000.
+Any remote access from other computers to your files is denied.
+An internal session is used, so you'll need to either start with a file or use the provided
+link with the session parameter.
+
+---
 ## Utilizing GitHub Features
 
 ### 1. Issues
