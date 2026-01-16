@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(git -C \"C:\\\\Users\\\\qepti\\\\Documents\\\\mentoring\" log --oneline -10)",
+      "Bash(git -C \"C:\\\\Users\\\\qepti\\\\Documents\\\\mentoring\" remote -v)",
+      "Bash(dir /b \"C:\\\\Users\\\\qepti\\\\Documents\\\\mentoring\")",
+      "Bash(dir /b \"C:\\\\Users\\\\qepti\\\\Documents\\\\mentoring\\\\guides\")",
+      "WebSearch",
+      "WebFetch(domain:www.npmjs.com)",
+      "Bash(npm install:*)",
+      "Bash(mdstart)",
+      "Bash(timeout:*)",
+      "Bash(cat:*)"
+    ]
+  }
+}

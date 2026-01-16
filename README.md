@@ -1,208 +1,190 @@
 # Mentorship Repository
 
-Welcome to the mentorship repository. This repository is designed to facilitate effective collaboration between mentor and mentee. It provides a structured organization for mentorship notes, resources, and progress tracking.
+A structured, framework-driven system for effective mentor-mentee relationships. Built on best practices from *The Coaching Habit*, *One Minute Mentoring*, *Lean In*, and *Tribe of Mentors*.
+
+---
+
+## Quick Start
+
+### For Mentees
+1. Read the [Mentee Guide](guides/mentee_guide.md)
+2. Complete the [Relationship Agreement](relationship_agreement.md) with your mentor
+3. Use the [First Meeting Kickoff](meetings/00-first-meeting-kickoff.md) template
+4. Before each meeting: prepare to report back on how you applied previous guidance
+
+### For Mentors
+1. Read the [Mentor Guide](guides/mentor_guide.md)
+2. Complete the [Relationship Agreement](relationship_agreement.md) with your mentee
+3. Learn the [Seven Essential Questions](guides/mentor_guide.md#the-seven-essential-questions)
+4. Stay curious longer—resist the urge to immediately give advice
+
+---
+
+## Core Frameworks
+
+### The Coaching Habit (Michael Bungay Stanier)
+- **Stay Curious Longer**: Resist the urge to immediately offer solutions
+- **The AWE Question**: "And What Else?" — generates more options before advice
+- **The Focus Question**: "What is the real challenge here for you?"
+- **The Foundation Question**: "What do you want?"
+- **The Learning Question**: "What was most useful for you?"
+
+### One Minute Mentoring (Ken Blanchard & Claire Diaz-Ortiz)
+- **Mentee-Driven Relationships**: The mentee owns the agenda and follow-through
+- **Defined Endpoints**: Set clear timeframes to reduce pressure and increase focus
+- **Closing the Loop**: Mentees report back on how they applied guidance
+- **Structured Agreements**: Establish expectations, boundaries, and goals upfront
+
+### Lean In (Sheryl Sandberg)
+- **Sit at the Table**: Actively participate in your own development
+- **Mentor vs. Sponsor**: Mentors advise privately; sponsors advocate publicly
+- **Don't Wait to Be Asked**: Take initiative in your career
+
+### Tribe of Mentors (Tim Ferriss)
+- **Multiple Mentors**: Different people for different needs and life areas
+- **The Power of Questions**: The book's 11 questions unlock wisdom from anyone
+- **Learn from Many Sources**: Books, podcasts, and people you've never met can mentor you
 
 ---
 
 ## Repository Structure
 
-The directory structure is as follows:
-
 ```
-mentorship-notes/
-├── README.md
+mentoring/
+├── guides/
+│   ├── mentor_guide.md          # Complete mentor handbook
+│   └── mentee_guide.md          # Complete mentee handbook
 ├── goals/
-│   ├── long-term-goals.md
-│   └── short-term-goals.md
+│   ├── long_term_goals.md       # 6-12+ month goals with SMART + Framework
+│   └── short_term_goals.md      # 30-90 day sprints with progress tracking
 ├── meetings/
-│   └── YYYY-MM-DD.md
+│   ├── 00-first-meeting-kickoff.md  # Relationship launch template
+│   └── YYYY-MM-DD.md            # Ongoing meeting template with 7 Questions
 ├── action-items/
-│   └── action-items.md
+│   └── action_items.md          # Task tracking + follow-up log
 ├── resources/
-│   ├── books.md
-│   ├── courses.md
-│   └── tools.md
+│   ├── books.md                 # Core framework books + reading order
+│   ├── courses.md               # Online learning resources
+│   └── tools.md                 # Mentoring platforms and software
 ├── progress/
-│   ├── skills-matrix.md
-│   └── certifications.md
+│   ├── skills_matrix.md         # Skill proficiency tracking
+│   └── certifications.md        # Certification progress
 ├── reflections/
-│   └── journal.md
+│   └── journal.md               # Structured reflection templates
 ├── feedback/
-│   ├── mentor-feedback.md
-│   └── self-evaluation.md
+│   ├── mentor_feedback.md       # Radical Candor-based feedback
+│   └── self_evaluation.md       # Framework-aligned self-assessment
 ├── networking/
-│   ├── contacts.md
-│   └── events.md
-└── achievements/
-    ├── certificates/
-    └── projects.md
+│   ├── contacts.md              # Professional network tracking
+│   └── events.md                # Industry events
+├── achievements/
+│   ├── projects.md              # Project portfolio
+│   └── certificates/            # Digital certificate storage
+├── relationship_agreement.md    # The mentorship contract
+├── relationship_health_check.md # Relationship diagnostic tool
+└── README.md
 ```
 
 ---
 
-## Mentorship Dashboard
+## Key Documents
 
-Use the links below to navigate through the repository:
-
-- [Goals](goals/)
-- [Meeting Notes](meetings/)
-- [Action Items](action-items/action-items.md)
-- [Learning Resources](resources/)
-- [Progress Tracker](progress/)
-- [Reflections](reflections/journal.md)
-- [Feedback](feedback/)
-- [Networking](networking/)
-- [Achievements](achievements/)
+| Document | Purpose | When to Use |
+|----------|---------|-------------|
+| [Relationship Agreement](relationship_agreement.md) | Define expectations, boundaries, sunset clause | First meeting |
+| [First Meeting Kickoff](meetings/00-first-meeting-kickoff.md) | Launch the relationship properly | Initial session |
+| [Meeting Template](meetings/YYYY-MM-DD.md) | Structure ongoing conversations | Every meeting |
+| [Mentor Guide](guides/mentor_guide.md) | Framework reference for mentors | Ongoing |
+| [Mentee Guide](guides/mentee_guide.md) | Framework reference for mentees | Ongoing |
+| [Relationship Health Check](relationship_health_check.md) | Diagnose relationship issues | Quarterly / when stuck |
+| [Action Items](action-items/action_items.md) | Track commitments and follow-up on guidance | After every meeting |
 
 ---
-## Viewing Markdown Files Locally
 
-To enhance your experience with markdown files in this repository, we recommend using `md-fileserver`. This tool allows you to view markdown files in your browser with additional features like syntax highlighting and automatic updates.
+## The Mentorship Lifecycle
 
-### Installing md-fileserver
+### Phase 1: Launch (Week 1)
+- [ ] Both parties read their respective guides
+- [ ] Complete Relationship Agreement together
+- [ ] Hold First Meeting Kickoff
+- [ ] Set initial goals
 
-Install md-fileserver globally using npm:
+### Phase 2: Rhythm (Ongoing)
+- [ ] Regular meetings using the template
+- [ ] Mentee reports back on applied guidance each meeting
+- [ ] Track action items and commitments
+- [ ] Journal reflections weekly
 
+### Phase 3: Checkpoint (Midpoint)
+- [ ] Complete Relationship Health Check
+- [ ] Review progress against goals
+- [ ] Adjust approach if needed
+- [ ] Decide: continue, evolve, or conclude
+
+### Phase 4: Conclusion (End Date)
+- [ ] Final Relationship Health Check
+- [ ] Celebrate accomplishments
+- [ ] Capture learnings
+- [ ] Decide: renew or conclude gracefully
+
+---
+
+## Viewing and Editing
+
+### On GitHub (Easiest)
+GitHub automatically renders all markdown files with proper formatting. Simply browse the repository online.
+
+### Local Editing
+Any of these options work well:
+
+- **VS Code** (Recommended): Free, cross-platform. Use `Ctrl+Shift+V` (or `Cmd+Shift+V` on Mac) to preview markdown. [Download VS Code](https://code.visualstudio.com/)
+- **Obsidian**: Purpose-built for markdown notes with live preview. [Download Obsidian](https://obsidian.md/)
+- **Any text editor**: Markdown is plain text—Notepad, TextEdit, or any editor works for basic editing.
+
+### Local Server (Optional)
+For live-reload preview in a browser:
 ```bash
 npm install -g md-fileserver
-```
-
-## Usage
-
-### Start the Local Server
-
-In your terminal type:
-
-```
 mdstart
 ```
 
-Open the given link <http://localhost:4000/?session=...> in your browser and
-navigate to the markdown file.
-
-**Note**: The local server can only be reached from your local computer on port 4000.
-Any remote access from other computers to your files is denied.
-An internal session is used, so you'll need to either start with a file or use the provided
-link with the session parameter.
-
 ---
-## Utilizing GitHub Features
 
-### 1. Issues
+## Using GitHub Features
 
-Use **Issues** to track tasks, questions, or topics to discuss.
+### Issues
+Track tasks and questions with labels:
+- `meeting-prep` - Agenda items
+- `action-item` - Committed tasks
+- `question` - Topics to discuss
+- `blocked` - Items needing help
 
-- Label issues with tags like `question`, `task`, `meeting`.
-- Assign issues to yourself or your mentor.
+### Projects
+Create a board with columns:
+- **To Discuss** - Topics for next meeting
+- **In Progress** - Active work
+- **Waiting on Mentor** - Need input
+- **Done** - Completed items
 
-### 2. GitHub Projects
-
-Create a **Project Board** for visual task management.
-
-- **Columns**: To Do, In Progress, Done.
-- **Cards**: Add issues or notes as cards.
-
-### 3. Wikis
-
-Enable the **Wiki** feature for a more interconnected documentation approach.
-
-- Create pages for each section.
-- Use internal links for navigation.
-
-### 4. Pull Requests
-
-If collaborating on the same files:
-
-- Use branches to make changes.
-- Create pull requests for review.
-
-### 5. Notifications
-
-- **Watch** the repository to stay updated.
-- Use `@mentions` in comments to notify collaborators.
+### Notifications
+- Watch the repository for updates
+- Use @mentions for specific requests
 
 ---
 
-## Advantages of Using GitHub
+## Contributing
 
-- **Version Control**: Track changes over time.
-- **Collaboration**: Real-time updates and discussions.
-- **Markdown Support**: Easy formatting.
-- **Privacy**: Control access with private repositories.
-- **Integration**: Connect with other tools via GitHub APIs.
-
----
-
-## Potential Challenges
-
-- **Learning Curve**: May require time to become familiar with GitHub.
-- **Limited Features**: Not as feature-rich for note-taking as Notion.
-- **No Native Calendar**: Lacks built-in scheduling tools.
+This template is designed to be forked and customized for your specific mentorship relationship. Feel free to:
+- Add industry-specific templates
+- Modify frameworks based on your needs
+- Share improvements back via pull request
 
 ---
 
-## Best Practices
+## License
 
-### 1. Regular Commits
-
-Commit changes frequently with descriptive messages.
-
-### 2. Clear Communication
-
-- Use comments and issues for discussions.
-- Keep messages concise and relevant.
-
-### 3. Stay Organized
-
-- Maintain a consistent folder and file naming convention.
-- Archive old files if necessary.
-
-### 4. Security
-
-- Do not commit sensitive information.
-- Regularly review access permissions.
+MIT License - See [LICENSE](LICENSE) file.
 
 ---
 
-## Additional Tools
-
-### 1. GitHub Apps
-
-- **ZenHub**: Advanced project management.
-- **Read the Docs**: Host documentation.
-
-### 2. Integrations
-
-- **GitHub Pages**: Create a simple website from your repository.
-- **Third-Party Tools**: Integrate with Slack or Trello for notifications.
-
----
-
-## Getting Started
-
-### Learn Basic Git Commands
-
-If using Git locally, familiarize yourself with commands like:
-
-- `git clone`
-- `git add`
-- `git commit`
-- `git push`
-
-### Understand Markdown Syntax
-
-Use resources like [Markdown Guide](https://www.markdownguide.org/) to learn formatting.
-
-### Set Up Notifications
-
-Configure your GitHub settings to receive email or app notifications.
-
----
-
-Feel free to explore the repository and contribute to the various sections. This repository is intended to be a collaborative space to document progress, share resources, and facilitate effective mentorship.
-
-If you have any questions or need assistance, please open an [Issue](https://github.com/qepting91/mentoring/issues) or reach out directly.
-
----
-
-**Happy Learning and Collaborating!**
+*Stay curious longer. Rush to advice slower. — The Coaching Habit*

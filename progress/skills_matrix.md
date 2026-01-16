@@ -1,54 +1,136 @@
 # Skills Matrix
 
-Evaluate your proficiency in various skills relevant to your profession.
+*Track skill development and identify areas for mentorship focus.*
+
+---
+
+## How to Use This Document
+
+1. Identify skills relevant to your goals
+2. Honestly assess your current level
+3. Discuss gaps with your mentor using The Focus Question: "What is the real challenge here for you?"
+4. Create development plans with mentor support
+5. Review quarterly
 
 ---
 
 ## Proficiency Levels
 
-- **Novice**: Little to no experience; starting to learn the basics.
-- **Beginner**: Some experience; can perform simple tasks with guidance.
-- **Intermediate**: Good understanding; can perform tasks independently.
-- **Advanced**: Strong understanding; can mentor others.
-- **Expert**: Deep expertise; recognized authority in the skill.
+| Level | Description | Evidence |
+|-------|-------------|----------|
+| **Novice** | Little to no experience; learning the basics | Following tutorials, making mistakes |
+| **Beginner** | Some experience; can perform simple tasks with guidance | Can complete tasks with help |
+| **Intermediate** | Good understanding; can perform tasks independently | Works autonomously on standard problems |
+| **Advanced** | Strong understanding; can mentor others | Handles complex problems, teaches others |
+| **Expert** | Deep expertise; recognized authority | Innovates, shapes best practices |
 
 ---
 
 ## Skills Assessment
 
-| Skill                         | Proficiency Level | Notes / Plans for Improvement          |
-|-------------------------------|-------------------|----------------------------------------|
-| [Skill 1]                     | [Select Level]    | [Add any relevant notes or plans.]     |
-| [Skill 2]                     | [Select Level]    | [Add any relevant notes or plans.]     |
-| [Skill 3]                     | [Select Level]    | [Add any relevant notes or plans.]     |
-| [Skill 4]                     | [Select Level]    | [Add any relevant notes or plans.]     |
-| [Skill 5]                     | [Select Level]    | [Add any relevant notes or plans.]     |
-| [Additional Skills as needed] | [Select Level]    | [Add any relevant notes or plans.]     |
+### Core Professional Skills
+
+| Skill | Current Level | Target Level | Gap | Mentor Can Help? |
+|-------|---------------|--------------|-----|------------------|
+| Communication | | | | [ ] Yes [ ] No |
+| Leadership | | | | [ ] Yes [ ] No |
+| Problem Solving | | | | [ ] Yes [ ] No |
+| Time Management | | | | [ ] Yes [ ] No |
+| Decision Making | | | | [ ] Yes [ ] No |
+| Conflict Resolution | | | | [ ] Yes [ ] No |
+
+### Mentoring-Specific Skills
+
+*Skills that make you effective in mentorship relationships*
+
+| Skill | Current Level | Notes |
+|-------|---------------|-------|
+| Asking good questions (not "What should I do?") | | |
+| Receiving feedback without defensiveness | | |
+| Self-awareness | | |
+| Follow-through on commitments | | |
+| Driving the relationship (as mentee) | | |
+| Listening before advising (as mentor) | | |
+
+### Technical/Domain Skills
+
+| Skill | Current Level | Target Level | Development Plan |
+|-------|---------------|--------------|------------------|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 
 ---
 
-### Example
+## Skill Development Log
 
-#### Professional Skills
+### [Skill Name]
 
-| Skill                         | Proficiency Level | Notes / Plans for Improvement                      |
-|-------------------------------|-------------------|----------------------------------------------------|
-| Project Management            | Intermediate      | Plan to obtain PMP certification next year.        |
-| Data Analysis                 | Advanced          | Proficient in Python and R; learning Tableau.      |
-| Communication Skills          | Beginner          | Joining a public speaking group to improve.        |
-| Leadership                    | Intermediate      | Leading small teams; aim to lead larger projects.  |
-| Time Management               | Advanced          | Utilize tools like Trello and Calendars effectively.|
+**Starting Level**: [Level] — [Date]
 
-#### Technical Skills (if applicable)
+| Date | Activity | What I Learned | New Level |
+|------|----------|----------------|-----------|
+| | | | |
+| | | | |
 
-| Skill                         | Proficiency Level | Notes / Plans for Improvement                      |
-|-------------------------------|-------------------|----------------------------------------------------|
-| Programming in Python         | Advanced          | Building complex scripts; contribute to open source.|
-| Cybersecurity Fundamentals    | Beginner          | Enrolled in an online course for basics.           |
-| Graphic Design                | Novice            | Exploring tutorials on Adobe Illustrator.          |
-| Foreign Language (e.g., Spanish)| Intermediate   | Conversational level; practicing for fluency.      |
+**Mentor's Input**:
+> [What perspective or guidance did your mentor provide?]
 
 ---
 
-*Review and update this skills matrix regularly to track your development and identify areas for improvement.*
+### [Skill Name]
 
+**Starting Level**: [Level] — [Date]
+
+| Date | Activity | What I Learned | New Level |
+|------|----------|----------------|-----------|
+| | | | |
+| | | | |
+
+**Mentor's Input**:
+> [What perspective or guidance did your mentor provide?]
+
+---
+
+## The Focus Question for Skills
+
+*"What is the real challenge here for you?"*
+
+For each skill gap, go deeper:
+
+| Skill Gap | The Real Challenge | What I Control |
+|-----------|--------------------|----------------|
+| | | |
+| | | |
+
+---
+
+## Skills to Discuss with Mentor
+
+*Prepare specific questions, not vague requests*
+
+| Skill | Specific Question for Mentor |
+|-------|------------------------------|
+| | "You've [specific accomplishment]. How did you develop [skill]?" |
+| | "I struggle with [specific situation]. What's your experience with this?" |
+
+---
+
+## Quarterly Review
+
+### Q[X] [Year]
+
+**Skills improved**:
+- [ ] [Skill]: [Old Level] → [New Level]
+- [ ] [Skill]: [Old Level] → [New Level]
+
+**Skills stalled**:
+- [ ] [Skill]: Why? What's the real challenge?
+
+**Focus for next quarter**:
+- [ ] [Skill]: [Specific development plan]
+
+---
+
+*Review this with your mentor quarterly. Use it to guide goal-setting and meeting agendas.*
