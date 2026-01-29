@@ -6,6 +6,33 @@
 
 ---
 
+## Pre-Meeting Preparation
+
+### Mentee Prep Checklist
+
+*Complete before the meeting:*
+
+- [ ] Reviewed action items from last meeting
+- [ ] Prepared ROE update (what I did with mentor's advice)
+- [ ] Identified the ONE thing I most want to discuss
+- [ ] Prepared specific questions (not vague "what should I do?")
+- [ ] Sent agenda to mentor 24 hours in advance
+
+### Mentor Prep Checklist
+
+*Complete before the meeting:*
+
+- [ ] Reviewed notes from last meeting
+- [ ] Checked mentee's open commitments
+- [ ] Identified patterns or growth areas to explore
+- [ ] Prepared 1-2 questions to ask (not advice to give)
+- [ ] Reminded myself to resist the Advice Monster
+
+**Mentor's pre-meeting observations:**
+> [Any patterns noticed, topics to probe, or areas of growth to acknowledge]
+
+---
+
 ## Part 1: Return on Energy (ROE) - Mentee Leads
 
 *From One Minute Mentoring: Always report back on how previous advice was applied.*
@@ -134,12 +161,24 @@ What was most useful or valuable about this conversation?
 
 ---
 
+## Deferred Items
+
+*Topics raised but not fully addressed - carry forward to next meeting*
+
+| Topic | Why Deferred | Priority for Next Meeting |
+|-------|--------------|---------------------------|
+| | Time / Needs more thought / Not urgent | High / Medium / Low |
+| | | |
+
+---
+
 ## Next Meeting
 
 - **Date**: [YYYY-MM-DD]
 - **Time**: [HH:MM]
 - **Mentee sends agenda by**: [Date - 24 hours before]
 - **Potential topics**: [Brief notes]
+- **Deferred items to address**: [From above]
 
 ---
 

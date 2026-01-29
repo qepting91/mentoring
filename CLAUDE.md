@@ -37,18 +37,41 @@ The repository provides templates, guides, and tracking documents for effective 
 mentoring/
 ├── guides/                         # Role-specific handbooks
 │   ├── mentor_guide.md
-│   └── mentee_guide.md
+│   ├── mentee_guide.md
+│   └── conflict_resolution.md
 ├── goals/                          # SMART goals with framework integration
+│   ├── long_term_goals.md
+│   └── short_term_goals.md
 ├── meetings/                       # Templates with 7 Essential Questions
 │   ├── 00-first-meeting-kickoff.md # Relationship launch
-│   └── YYYY-MM-DD.md               # Ongoing meetings
+│   ├── YYYY-MM-DD.md               # Ongoing meetings
+│   └── ending_the_mentorship.md    # Graceful conclusion guide
 ├── action-items/                   # Task tracking + ROE log
-├── resources/                      # Books, courses, tools
+│   └── action_items.md
+├── resources/                      # Books, courses, tools, web resources
+│   ├── books.md
+│   ├── courses.md
+│   ├── tools.md
+│   ├── web_resources.md
+│   └── seven_questions_quick_reference.md
 ├── progress/                       # Skills matrix, certifications
+│   ├── skills_matrix.md
+│   └── certifications.md
 ├── reflections/                    # Structured journal templates
+│   └── journal.md
 ├── feedback/                       # Radical Candor-based feedback
+│   ├── mentor_feedback.md
+│   ├── mentee_feedback_to_mentor.md
+│   └── self_evaluation.md
 ├── networking/                     # Contacts + introductions tracking
+│   ├── contacts.md
+│   └── events.md
 ├── achievements/                   # Projects portfolio
+│   ├── projects.md
+│   └── certificates/
+│       └── certificates.md
+├── LICENSE                         # MIT License
+├── README.md                       # Project overview and setup
 ├── relationship_agreement.md       # The mentorship contract
 └── relationship_health_check.md    # M.E.N.T.O.R. diagnostic
 ```
@@ -68,8 +91,12 @@ mentoring/
 | `relationship_agreement.md` | Must complete at start - defines terms, sunset clause |
 | `guides/mentor_guide.md` | Complete mentor handbook with Advice Monster warning |
 | `guides/mentee_guide.md` | Complete mentee handbook with ownership principles |
+| `guides/conflict_resolution.md` | Handle disagreements using Radical Candor |
 | `meetings/00-first-meeting-kickoff.md` | Different from regular meetings - relationship launch |
+| `meetings/ending_the_mentorship.md` | Gracefully conclude the mentorship |
 | `relationship_health_check.md` | M.E.N.T.O.R. framework diagnostic for stuck relationships |
+| `resources/seven_questions_quick_reference.md` | Quick reference for The Coaching Habit questions |
+| `feedback/mentee_feedback_to_mentor.md` | Bi-directional feedback templates |
 
 ## Local Viewing
 
