@@ -131,6 +131,9 @@ mentoring/
 
 ## Viewing and Editing
 
+### Notion Template
+Prefer Notion? Import the complete template directly: [Mentoring Template on Notion](https://palmetto.notion.site/mentoring-2f7cd97b8b7a80d08740ca5538e91313)
+
 ### On GitHub (Easiest)
 GitHub automatically renders all markdown files with proper formatting. Simply browse the repository online.
 
