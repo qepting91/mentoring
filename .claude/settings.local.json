@@ -11,7 +11,14 @@
       "Bash(npm install:*)",
       "Bash(mdstart)",
       "Bash(timeout:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(powershell.exe -Command \"Compress-Archive -Path ''C:\\\\Users\\\\qepti\\\\Documents\\\\mentoring-export\\\\*'' -DestinationPath ''C:\\\\Users\\\\qepti\\\\Documents\\\\mentoring-notion.zip'' -Force; Get-Item ''C:\\\\Users\\\\qepti\\\\Documents\\\\mentoring-notion.zip''\")",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)"
     ]
   }
 }
