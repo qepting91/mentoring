@@ -65,7 +65,8 @@ mentoring/
 ├── resources/
 │   ├── books.md                 # Core framework books + reading order
 │   ├── courses.md               # Online learning resources
-│   └── tools.md                 # Mentoring platforms and software
+│   ├── tools.md                 # Mentoring platforms and software
+│   └── claude_code.md           # Claude Code CLI cheatsheet
 ├── progress/
 │   ├── skills_matrix.md         # Skill proficiency tracking
 │   └── certifications.md        # Certification progress

@@ -41,4 +41,14 @@ List of essential tools for your field.
 
 ---
 
+## Tool 6: *Claude Code*
+
+- **Purpose**: An agentic AI coding assistant CLI for software engineers. Useful for code generation, refactoring, debugging, and automating development workflows.
+- **Download Link**: [Claude Code](https://code.claude.com)
+- **Documentation**: [Claude Code CLI Reference](https://code.claude.com/docs/en/cli-reference)
+- **Cheatsheet**: [Claude Code Cheatsheet](claude_code.md) (in this repository)
+- **Notes**: Integrates with GitHub, Linear, and PostgreSQL via MCP. Use Plan Mode (`Shift+Tab` x2) for complex tasks. Essential for technical mentorships involving software development.
+
+---
+
 *Update this list as you discover new tools.*

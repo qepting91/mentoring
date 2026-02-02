@@ -53,7 +53,8 @@ mentoring/
 │   ├── courses.md
 │   ├── tools.md
 │   ├── web_resources.md
-│   └── seven_questions_quick_reference.md
+│   ├── seven_questions_quick_reference.md
+│   └── claude_code.md              # Claude Code CLI cheatsheet
 ├── progress/                       # Skills matrix, certifications
 │   ├── skills_matrix.md
 │   └── certifications.md
